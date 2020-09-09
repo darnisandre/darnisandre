@@ -3,4 +3,4 @@
 
 Hi, I'm Darnis Galvagni, a Software Engineer from Brazil.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=andriushax&cover_image=true)]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=andriushax&cover_image=true)](https://open.spotify.com/user/andriushax)
